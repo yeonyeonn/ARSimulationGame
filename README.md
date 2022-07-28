@@ -17,8 +17,6 @@
 - Unity AR + 2D 씬
 - ios 빌드
 
-<img src="https://user-images.githubusercontent.com/90249027/181500816-a314d51f-d1c0-4f34-8767-c9e7cc6be981.PNG" width="800"/> 
-
 <img src="https://user-images.githubusercontent.com/90249027/181502842-c919b89b-1691-481d-a345-2f5b4896596d.jpg" width="800"/> 
 
 <img src="https://user-images.githubusercontent.com/90249027/181502902-7fb493e7-6afb-4f0c-8bba-0891865e9517.jpg" width="800"/> 
