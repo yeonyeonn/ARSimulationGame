@@ -3,6 +3,10 @@
 
 당신은 어떤 대학 생활을 보내고 계신가요? AR로 즐기는 좌충우돌 우당탕탕 와글와글 대학생활 시뮬레이션 게임! 카이스트 곳곳에 숨겨져 있는 AR 사물들을 찾아 교수심의 호감도를 높이고, 당신의 선택에 따라 달라지는 결말을 경험해보세요.
 
+
+<img src="https://user-images.githubusercontent.com/90249027/181500816-a314d51f-d1c0-4f34-8767-c9e7cc6be981.PNG" width="800"/>  
+
+
 ### Contributer
 **박정은** 포스텍 컴퓨터공학과 @jjungnii  
 **신의진** 카이스트 전산학부 @euijinshin  
@@ -12,6 +16,14 @@
 
 - Unity AR + 2D 씬
 - ios 빌드
+
+<img src="https://user-images.githubusercontent.com/90249027/181500816-a314d51f-d1c0-4f34-8767-c9e7cc6be981.PNG" width="800"/> 
+
+<img src="https://user-images.githubusercontent.com/90249027/181502842-c919b89b-1691-481d-a345-2f5b4896596d.jpg" width="800"/> 
+
+<img src="https://user-images.githubusercontent.com/90249027/181502902-7fb493e7-6afb-4f0c-8bba-0891865e9517.jpg" width="800"/> 
+
+<img src="https://user-images.githubusercontent.com/90249027/181503033-12cb7535-37ff-4cd9-83cf-2f40e0259021.jpg" width="800"/>
 
 ### AR 지도 씬
 
